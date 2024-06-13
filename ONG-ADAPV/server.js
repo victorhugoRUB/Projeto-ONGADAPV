@@ -52,6 +52,6 @@ app.use('/ctrlSaidaEvento', CtrlSaidaEventoRoutes)
 
 // ---
 
-app.listen(5000, function () {
+app.listen(3000, function () {
     console.log("Site está no ar.")
 })
